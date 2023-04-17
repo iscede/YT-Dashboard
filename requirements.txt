@@ -15,7 +15,7 @@ black==23.3.0
 bleach==6.0.0
 blinker==1.6.2
 cachetools==5.3.0
-certifi @ file:///C:/ci_311/certifi_1676421629969/work/certifi
+certifi==2022.12.7
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.1.0
@@ -115,8 +115,8 @@ python-slugify==8.0.1
 pytoolconfig==1.2.5
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
-#pywin32==306
-#pywin32-ctypes==0.2.0
+pywin32==306
+pywin32-ctypes==0.2.0
 PyYAML==6.0
 pyzmq==25.0.2
 QDarkStyle==3.1
